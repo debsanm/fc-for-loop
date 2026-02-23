@@ -1,6 +1,6 @@
 # fc-for-loop
 
-#Assignment-1#. Write a program that asks the user to enter today’s sales for five stores. The program should then display a bar graph comparing each store’s sales. Create each bar in the bar graph by displaying a row of asterisks.
+# Assignment-1 #. Write a program that asks the user to enter today’s sales for five stores. The program should then display a bar graph comparing each store’s sales. Create each bar in the bar graph by displaying a row of asterisks.
  Each asterisk should represent $100 of sales.
 Here is an example of the program’s output:
 
